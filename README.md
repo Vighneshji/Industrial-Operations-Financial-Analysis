@@ -6,7 +6,9 @@ Understanding the Given Data
 
 ## File Information
 File Name: Industrial Operations Financial Analysis.xlsx
+
 File Type: Microsoft Excel Spreadsheet
+
 Purpose: To analyze financial data related to industrial operations for decision-making and performance evaluation.
 
 ## Contents
