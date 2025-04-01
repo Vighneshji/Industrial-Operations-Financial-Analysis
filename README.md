@@ -26,8 +26,9 @@ Revenue Analysis: Revenue streams, pricing models, and demand trends.
 
 Profitability Metrics: Gross margin, net profit, and return on investment.
 
-# Forecasting & Trends: Predictive analysis based on historical data.
-# KPIs & Dashboard: Key Performance Indicators visualized for quick insights.
+Forecasting & Trends: Predictive analysis based on historical data.
+
+KPIs & Dashboard: Key Performance Indicators visualized for quick insights.
 
 ## Graphs obtained:
 ![Interest Rate vs Net Present Worth Plot](IMAGES/IRvsNPW.png)
