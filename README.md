@@ -1,4 +1,4 @@
-###Industrial Operations Financial Analysis
+# Industrial Operations Financial Analysis
 
 ## Project Overview
 This project is an financial feasibility analysis of a large-scale industrial or mining operation. It examines the costs, investments, revenue generation, and financial viability over a period of 25 years. The goal is to assess whether the project is profitable and sustainable given the expected cash flows and expenses.
